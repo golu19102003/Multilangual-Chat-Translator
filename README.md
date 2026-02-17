@@ -2,7 +2,33 @@
 
 A powerful real-time chat application that breaks language barriers by automatically translating messages between users speaking different languages. Built with modern web technologies and featuring voice accessibility for inclusive communication.
 
-## 🌟 Features
+## �️ GitHub Topics & Keywords
+
+### 🌟 Primary Topics
+`react` `nodejs` `multilingual` `translation` `realtime` `chat` `socketio` `mongodb` `firebase` `redux` `tailwindcss`
+
+### 🚀 Advanced Features Topics
+`voice-recognition` `text-to-speech` `ai-translation` `language-detection` `accessibility` `web-speech-api` `realtime-translation` `cross-platform`
+
+### 🛠 Technology Stack Topics
+`react-19` `expressjs` `redux-toolkit` `tailwindcss-3` `mongodb` `jwt-authentication` `websocket` `firebase-auth` `axios` `nodemon`
+
+### 🌍 Language & Translation Topics
+`google-translate` `language-translator` `multilingual-chat` `internationalization` `i18n` `localization` `translation-api` `language-support` `100-languages`
+
+### 🎨 UI/UX Topics
+`responsive-design` `dark-mode` `modern-ui` `user-experience` `accessibility` `mobile-friendly` `progressive-web-app` `material-design`
+
+### 🔧 Development Topics
+`fullstack` `mern-stack` `javascript` `es6` `async-await` `rest-api` `real-time-communication` `web-development` `frontend` `backend`
+
+### 📱 Application Type Topics
+`chat-application` `messaging-app` `social-platform` `communication-tool` `translation-service` `language-learning` `educational-tool` `business-tool`
+
+### 🎯 Use Case Topics
+`language-learning` `international-communication` `business-communication` `educational-platform` `accessibility-tool` `travel-app` `social-networking` `team-collaboration`
+
+## �🌟 Features
 
 - **Real-Time Messaging**: Instant message delivery using Socket.io
 - **Automatic Translation**: Messages translated to each user's preferred language
