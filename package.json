@@ -1,0 +1,42 @@
+{
+  "name": "multilingual-chat-translator",
+  "version": "1.0.0",
+  "description": "Real-Time Multilingual Chat Translator with Speech Accessibility",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/index.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-deps": "npm install && cd client && npm install"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "firebase-admin": "^13.6.0",
+    "google-translate-api-x": "^10.7.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "chat",
+    "translator",
+    "multilingual",
+    "real-time",
+    "socket.io",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Team Varun, Raushan, Ankush, Deepak",
+  "license": "MIT"
+}
